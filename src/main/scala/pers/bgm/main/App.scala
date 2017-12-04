@@ -5,5 +5,5 @@ package pers.bgm.main
  *
  */
 object App extends Application {
-  println( "Hello World!" )
+  print("hello world")
 }
