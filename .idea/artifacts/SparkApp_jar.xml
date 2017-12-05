@@ -3,11 +3,6 @@
     <output-path>$PROJECT_DIR$/out/artifacts/SparkApp_jar</output-path>
     <root id="archive" name="SparkApp.jar">
       <element id="module-output" name="SparkApp" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.7.0/scala-library-2.7.0.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-actors.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-library.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-reflect.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-swing.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
